@@ -1,0 +1,7 @@
+1: [ Private(John), Sergent(Smith), Sergent(Donald) ]
+2: [ Private(Allen), Officer(Kenny), Private(James) ]
+3: [ Corporal(Tim), Private(Homer), Sergent(Michael), Officer(Eu) ]
+1: [ Private(John), Sergent(Smith), Sergent(Donald) ]
+2: [ Private(Allen), Officer(Kenny), Private(James) ]
+3: [ Officer(Eu), Sergent(Michael), Corporal(Tim), Private(Homer) ]
+abort

@@ -1,0 +1,18 @@
+Private John
+Sergent Smith
+Sergent Donald
+END
+load
+Private Allen
+Officer Kenny
+Private James
+END
+load
+Corporal Tim
+Private Homer
+Sergent Michael
+Officer Eu
+END
+print
+sortBy 3 RankComparator ascending
+print
